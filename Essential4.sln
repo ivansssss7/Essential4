@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Essential4", "Essential4\Essential4.csproj", "{58586B7F-EDF9-4234-A866-A085292AC18E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Essential4_1", "Essential4\Essential4_1.csproj", "{58586B7F-EDF9-4234-A866-A085292AC18E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Essential4_2", "Essential4_2\Essential4_2.csproj", "{BCE259E8-CF84-44A6-94B4-1F08DCE1FDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Essential4_3", "Essential4_3\Essential4_3.csproj", "{16661585-CB2A-4DA9-B20C-BB9D729B585C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{58586B7F-EDF9-4234-A866-A085292AC18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58586B7F-EDF9-4234-A866-A085292AC18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58586B7F-EDF9-4234-A866-A085292AC18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE259E8-CF84-44A6-94B4-1F08DCE1FDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE259E8-CF84-44A6-94B4-1F08DCE1FDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE259E8-CF84-44A6-94B4-1F08DCE1FDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE259E8-CF84-44A6-94B4-1F08DCE1FDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16661585-CB2A-4DA9-B20C-BB9D729B585C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16661585-CB2A-4DA9-B20C-BB9D729B585C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16661585-CB2A-4DA9-B20C-BB9D729B585C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16661585-CB2A-4DA9-B20C-BB9D729B585C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
